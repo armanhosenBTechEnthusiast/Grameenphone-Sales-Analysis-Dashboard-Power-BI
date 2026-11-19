@@ -12,7 +12,8 @@ The main objective of this project is to transform sales data into meaningful bu
 
 ## 🖥️ Dashboard Preview
 
-![Grameenphone Sales Dashboard](dashboard-preview.png)
+![Grameenphone Sales Dashboard]<img width="1300" height="749" alt="Screenshot 2026-08-23 191936" src="https://github.com/user-attachments/assets/3b161f03-b480-400d-937e-dbabeea56e08" />
+
 
 ---
 
