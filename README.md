@@ -21,7 +21,7 @@ The main objective of this project is to transform sales data into meaningful bu
 
 | File | Description |
 |---|---|
-| [Power BI Dashboard (.pbix)]() | Download the interactive Power BI project |
+| [Power BI Dashboard (.pbix)](https://github.com/armanhosenBTechEnthusiast/Grameenphone-Sales-Analysis-Dashboard-Power-BI/blob/main/GP%20sales%20Performance%20Analysis.pbix) | Download the interactive Power BI project |
 | [Excel Dataset (.xlsx)](stock%20price.xlsx) | Download the dataset |
 
 ---
